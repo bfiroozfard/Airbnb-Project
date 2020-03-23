@@ -13,3 +13,8 @@ The dataset used for this project comes from insideairbnb.com
 
 ## Limitations
 The biggest problem is that the data is quite messy and which is a huge disadvantage in that it only includes the advertised price(which is sometimes called the 'sticker' price).The sticker price is the overall nightly price that is advertised to potential guests, rather than the actual average amount paid per night by previous guests. The advertised prices can be set to any arbitrary amount by the host, and hosts that are less experienced with Airbnb will often set these to very low. A more accurate version could be built using data on the actual average nightly rates paid e.g from sites like AirDNA that sell higher quality Airbnb data.
+
+## Data visualization
+Data visualization has done using tablue public.you can check the visualization in : <https://public.tableau.com/profile/b7095#!/>
+
+
